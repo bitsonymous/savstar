@@ -1,20 +1,31 @@
-import React from 'react'
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import HeadlineCards from './components/HeadlineCards'
-import Food from './components/Food'
-import Category from './components/Category'
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+  Link,
+  useRouteMatch,
+} from "react-router-dom";
+import Home from "./components/Home"
+import Features from "./components/Features";
 
-function App() {
+
+
+
+import React from 'react'
+
+const App = () => {
   return (
-    <div>
-        <Navbar />
-        <Hero />
-        <HeadlineCards />
-        <Food />
-        <Category />
-    </div>
-  );
+  
+          <BrowserRouter>
+      <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/Features" element={<Features />} />
+
+      
+      </Routes>
+    </BrowserRouter>
+    
+  )
 }
 
-export default App;
+export default App
