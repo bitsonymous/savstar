@@ -6,6 +6,7 @@ import Food from './Food'
 import Category from './Category'
 import { About } from './About'
 import { Footer } from './Footer'
+import Statistic from './Statistics'
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
         {/* <Navbar /> */}
         <Hero />
         <HeadlineCards />
+        <Statistic />
         <About />
         {/* <Food />
         <Category /> */}

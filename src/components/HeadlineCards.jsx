@@ -7,7 +7,7 @@ const HeadlineCards = () => {
       <div className='rounded-xl relative '>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>Our Insulated Copper Wires</p>
+          <p className='font-bold text-2xl px-2 pt-4'>Insulated Copper Wires</p>
           <p className='px-2'>Fire Proof</p>
           <button className='border-white bg-white text-black mx-2 absolute bottom-4  transform transition duration-500 hover:scale-110'>Explore</button>
         </div>
@@ -21,9 +21,9 @@ const HeadlineCards = () => {
       <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>Our Super Fast Optic Cables</p>
-          <p className='px-2'>Fiber Cables</p>
-          <button className='border-white bg-white text-black mx-2 absolute bottom-4  transform transition duration-500 hover:scale-110'>Order Now</button>
+          <p className='font-bold text-2xl px-2 pt-4'>Armoured Cables</p>
+          <p className='px-2'>Ultra Strong</p>
+          <button className='border-white bg-white text-black mx-2 absolute bottom-4  transform transition duration-500 hover:scale-110'>Explore</button>
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
@@ -35,9 +35,9 @@ const HeadlineCards = () => {
       <div className='rounded-xl relative ' >
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>We have all type of Cables</p>
+          <p className='font-bold text-2xl px-2 pt-4'>Submersible and flat Cables</p>
           <p className='px-2'>Many More</p>
-          <button className='border-white bg-white text-black mx-2 absolute bottom-4 transform transition duration-500 hover:scale-110'>Explore All</button>
+          <button className='border-white bg-white text-black mx-2 absolute bottom-4 transform transition duration-500 hover:scale-110'>Explore</button>
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
