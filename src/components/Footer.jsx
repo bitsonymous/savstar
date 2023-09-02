@@ -25,8 +25,8 @@ export const Footer = () => {
           </div>
         </div>
         <div className="space-y-2 text-sm">
-          <p className="text-base font-bold tracking-wide text-gray-900">
-            Contacts
+          <p className="text-base font-bold tracking-wide text-orange-500">
+            Connect With Us
           </p>
           <div className="flex">
             <p className="mr-1 text-orange-500">Phone:</p>
@@ -34,9 +34,9 @@ export const Footer = () => {
               href="tel:850-123-5021"
               aria-label="Our phone"
               title="Our phone"
-              className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
+              className="transition-colors duration-300 text-white hover:text-gray-500"
             >
-              850-123-5021
+              8595544528
             </a>
           </div>
           <div className="flex">
@@ -45,9 +45,9 @@ export const Footer = () => {
               href="mailto:info@lorem.mail"
               aria-label="Our email"
               title="Our email"
-              className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
+              className="transition-colors duration-300 text-white hover:text-gray-500"
             >
-              info@lorem.mail
+              savstar.help@gmail.com
             </a>
           </div>
           <div className="flex">
@@ -58,14 +58,14 @@ export const Footer = () => {
               rel="noopener noreferrer"
               aria-label="Our address"
               title="Our address"
-              className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
+              className="transition-colors duration-300 text-white hover:text-gray-500"
             >
-              312 Lovely Street, NY
+              Sector 5, Bawana Industrial Area, Pocket A, Delhi
             </a>
           </div>
         </div>
         <div>
-          <span className="text-base font-bold tracking-wide text-gray-900">
+          <span className="text-base font-bold tracking-wide text-orange-500">
             Social
           </span>
           <div className="flex items-center mt-1 space-x-3">
@@ -96,14 +96,13 @@ export const Footer = () => {
             </a>
           </div>
           <p className="mt-4 text-sm text-gray-500">
-            Bacon ipsum dolor amet short ribs pig sausage prosciutto chicken
-            spare ribs salami.
+            Sav'Star Cables- Connecting You To Excellence
           </p>
         </div>
       </div>
       <div className="flex flex-col-reverse justify-between pt-5 pb-10 border-t lg:flex-row">
         <p className="text-sm text-gray-600">
-          © Copyright 2020 Lorem Inc. All rights reserved.
+          © Copyright 2023 Sav'Star Cables All rights reserved.
         </p>
         <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
           <li>
@@ -111,7 +110,7 @@ export const Footer = () => {
               href="/"
               className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
-              F.A.Q
+             
             </a>
           </li>
           <li>
@@ -119,7 +118,7 @@ export const Footer = () => {
               href="/"
               className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
-              Privacy Policy
+              
             </a>
           </li>
           <li>
@@ -127,7 +126,7 @@ export const Footer = () => {
               href="/"
               className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
-              Terms &amp; Conditions
+              
             </a>
           </li>
         </ul>
