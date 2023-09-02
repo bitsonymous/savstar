@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import Navbar from './components/Navbar';
 import { Footer } from './components/Footer';
+import { Testimonials } from './components/Testimonials';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

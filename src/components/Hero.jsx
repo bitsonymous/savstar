@@ -10,7 +10,7 @@ const Hero = () => {
                 <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'> Generation</h1>
                 <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-orange-500'> Cables <span className='text-gray-200'>&</span> Wires</h1>
             </div>
-            <img className='w-full max-h-[500px] object-cover' src="https://drive.google.com/file/d/1Nlw2iEnRePOqK-qheWsxX80pLrG40vPU/view?usp=drive_link" alt="/" />
+            <img className='w-full max-h-[500px] object-cover' src="https://5.imimg.com/data5/TK/FE/RI/SELLER-82866892/copper-cables-500x500.jpg" alt="/" />
         </div>
     </div>
   )

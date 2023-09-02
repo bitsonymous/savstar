@@ -9,14 +9,12 @@ import Home from "./components/Home"
 import Features from "./components/Features";
 
 
-
-
 import React from 'react'
 
 const App = () => {
   return (
   
-          <BrowserRouter>
+      <BrowserRouter>
       <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/Features" element={<Features />} />

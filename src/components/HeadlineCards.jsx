@@ -27,7 +27,7 @@ const HeadlineCards = () => {
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-          src='https://www.youreshape.com/wp-content/uploads/2021/04/New-fiber-optic-1.jpg'
+          src='https://github.com/AyushiSingh0502/savstar/blob/main/wepik-export-20230831090907plLB.jpeg?raw=true'
           alt='/'
         />
       </div>
@@ -35,13 +35,13 @@ const HeadlineCards = () => {
       <div className='rounded-xl relative ' >
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>Submersible and flat Cables</p>
+          <p className='font-bold text-2xl px-2 pt-4'>Submersible and Flat Cables</p>
           <p className='px-2'>Many More</p>
           <button className='border-white bg-white text-black mx-2 absolute bottom-4 transform transition duration-500 hover:scale-110'>Explore</button>
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-          src='https://media.istockphoto.com/id/92374182/photo/wires.jpg?s=612x612&w=is&k=20&c=_CKAcVdIHqNqYolEsDzXnt8UYQilGhnSA9YOLPy9Is0='
+          src='https://img.freepik.com/free-photo/electrical-cable-energy-technology-equipment-isolated-white_93675-128984.jpg?size=626&ext=jpg&uid=R114765670&semt=ais'
           alt='/'
         />
       </div>

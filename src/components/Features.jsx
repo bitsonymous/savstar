@@ -9,7 +9,7 @@ const Features = () => {
           <div className="flex flex-col justify-center">
             <div className="max-w-xl mb-6">
               <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-              The quick, brown fox
+              Reliable Power Delivery: Cables That Never Let You Down
               {/* <br className="hidden md:block" />
               jumps over{' '}
               <span className="relative px-1">
@@ -20,9 +20,8 @@ const Features = () => {
               </span> */}
               </h2>
             <p className="text-base text-gray-700 md:text-lg">
-            Through extensive research and development, coupled with meticulous analysis, Sav'Star has 
-            crafted top-tier products that cater to the ever-evolving needs of our esteemed clientele.
-            Our cables are meticulously engineered using the highest quality components, ensuring steadfast durability an
+             Sav'Star has crafted top-tier products that cater to the ever-evolving needs of our esteemed clientele.Our
+            cables are meticulously engineered using the highest quality components, ensuring steadfast durability an
             uninterrupted functionality even in the most demanding scenarios.
 
             </p>
@@ -66,14 +65,14 @@ const Features = () => {
         <div>
           <img
             className="object-cover w-full h-56 rounded shadow-lg sm:h-96"
-            src="https://img.freepik.com/free-photo/colorful-plastic-polymer-granules-cable_93675-129842.jpg?w=996&t=st=1692282691~exp=1692283291~hmac=815666bcd399cc64171e2aa9bd5e6ebb96bc184dda0af701cd266c03af9fe90d"
+            src="https://img.freepik.com/free-photo/colorful-plastic-polymer-granules-cable_93675-129842.jpg?size=626&ext=jpg&uid=R114765670&semt=ais"
             alt=""
           />
         </div>
         <div className="flex flex-col justify-center">
           <div className="max-w-xl mb-6">
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-              The quick, brown fox
+              Future-Ready Performance: Experience Cutting-Edge Cable Innovation
               {/* <br className="hidden md:block" />
               jumps over{' '}
               <span className="relative px-1">
@@ -84,7 +83,7 @@ const Features = () => {
               </span> */}
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-              The surge in demand for flexible cables can be attributed to our consistent efforts to introduce novel and enhanced solutions that capture the attention of our customers. When it comes to an essential element with universal applicability across various work domains, flexible cables unquestionably take the spotlight.
+              Our commitment to innovation has driven the rise in demand for flexible cables. These versatile solutions, essential across domains, spotlight our dedication to capturing customer attention with novel enhancements.
             </p>
           </div>
           <div className="grid gap-5 row-gap-8 sm:grid-cols-2">
@@ -119,7 +118,7 @@ const Features = () => {
       <div className="flex flex-col justify-center">
         <div className="max-w-xl mb-6">
           <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-          The quick, brown fox
+            Unmatched Durability: Cables Built to Last and Perform
             {/* <br className="hidden md:block" />
             jumps over{' '}
             <span className="relative px-1">
@@ -130,7 +129,7 @@ const Features = () => {
             </span> */}
           </h2>
           <p className="text-base text-gray-700 md:text-lg">
-          Every cable that bears the Sav'Star name carries with it a legacy of quality assurance. Our materials are handpicked  to withstand extreme conditions, ensuring seamless conductivity and enduring integrity. Each product in our lineup is a testament to our commitment to utilizing top-tie materials.
+          Sav'Star-labeled cables embody a legacy of assured quality. Carefully chosen materials endure tough conditions, guaranteeing uninterrupted conductivity and lasting integrity. Our products affirm our pledge to premium material use.
           </p>
         </div>
         <div className="grid gap-5 row-gap-8 sm:grid-cols-2">
@@ -140,8 +139,7 @@ const Features = () => {
               Corrosion Resistance
               </h6>
               <p className="text-sm text-gray-900">
-              Cables feature robust corrosion resistance, extending lifespan and reliability, making them ideal for challenging
-                environments and ensuring consistent performance in diverse conditions.
+                Our cables showcase strong corrosion resistance, ideal for challenging environments, ensuring consistent performance across diverse conditions.
               </p>
             </div>
           </div>
@@ -151,8 +149,7 @@ const Features = () => {
               Durability
               </h6>
               <p className="text-sm text-gray-900">
-              Sav'Star cables showcase robust durability, with materials and construction designed to withstand wear, 
-                  environmental factors, and usage stress, ensuring extended and reliable service life.
+                Sav'Star cables demonstrate durability, designed to endure wear, environmental factors, and usage stress for extended reliability.
               </p>
             </div>
           </div>
@@ -173,14 +170,14 @@ const Features = () => {
         <div>
           <img
             className="object-cover w-full h-56 rounded shadow-lg sm:h-96"
-            src="https://img.freepik.com/free-photo/wires-motherboard_1161-108.jpg?w=900&t=st=1692282831~exp=1692283431~hmac=b0eeba9191765a0e12fa142a2fa1c7e5f0f06cd9a4c1c48b1c73eafd1b8b0a4b"
+            src="https://img.freepik.com/free-photo/wires-motherboard_1161-108.jpg?size=626&ext=jpg&uid=R114765670&semt=ais"
             alt=""
           />
         </div>
         <div className="flex flex-col justify-center">
           <div className="max-w-xl mb-6">
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-              The quick, brown fox
+            Trusted by Professionals: Cables that Meet Industry Standards
               {/* <br className="hidden md:block" />
               jumps over{' '}
               <span className="relative px-1">
@@ -191,29 +188,27 @@ const Features = () => {
               </span> */}
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-            When you choose Sav'Star cables, you're investing in a product that not only meets your immediate needs  but also delivers long-lasting satisfaction. Experience the difference that premium materials make in cable performance - elevate your expectations with Sav'Star. Your assurance of quality begins here.
+            Opt for Sav'Star cables and invest in enduring satisfaction. Beyond immediate needs, our premium materials ensure lasting performance. Elevate your expectations and find quality assurance in every Sav'Star choice.
             </p>
           </div>
           <div className="grid gap-5 row-gap-8 sm:grid-cols-2">
             <div className="bg-white border-l-4 shadow-sm border-deep-purple-accent-400">
               <div className="h-full p-5 border border-l-0 rounded-r">
                 <h6 className="mb-2 font-semibold leading-5">
-                  I'll be sure to note that in my log
+                Safety Standards
                 </h6>
                 <p className="text-sm text-gray-900">
-                  Lookout flogging bilge rat main sheet bilge water nipper fluke
-                  to go on account heave down.
+                Sav'Star cables strictly follow safety standards, prioritizing secure installations for user and property well-being.
                 </p>
               </div>
             </div>
             <div className="bg-white border-l-4 shadow-sm border-deep-purple-accent-400">
               <div className="h-full p-5 border border-l-0 rounded-r">
                 <h6 className="mb-2 font-semibold leading-5">
-                  A business big enough that it could be listed
+                Certifications and Standards
                 </h6>
                 <p className="text-sm text-gray-900">
-                  Those options are already baked in with this model shoot me an
-                  email clear.
+                Cables meet industry standards, assuring safety, performance, and compatibility in applications.
                 </p>
               </div>
             </div>

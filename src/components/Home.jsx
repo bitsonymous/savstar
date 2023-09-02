@@ -7,6 +7,7 @@ import Category from './Category'
 import { About } from './About'
 import { Footer } from './Footer'
 import Statistic from './Statistics'
+import { Testimonials } from './Testimonials'
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
         <HeadlineCards />
         <Statistic />
         <About />
+        <Testimonials />
         {/* <Food />
         <Category /> */}
         {/* <Footer /> */}
