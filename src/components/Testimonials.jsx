@@ -27,7 +27,7 @@ export const Testimonials = () => {
               >
                 
               </a>{' '}
-              <span className="text-gray-600">1 Feb</span>
+              <span className="text-gray-600">1 Feb, 2023</span>
             </p>
             <a
               href="/"
@@ -35,7 +35,7 @@ export const Testimonials = () => {
               title="Jingle Bells"
               className="inline-block mb-3 text-2xl font-bold leading-5 text-black transition-colors duration-200 hover:text-deep-purple-accent-400"
             >
-              Customers Delight in Outstanding Cable Performance
+              Customers Delight in Outstanding Performance
             </a>
             <p className="mb-5 text-gray-700">
             I recently switched to Sav'Star Cables for my home. The cables are of top-notch quality, and the performance is exceptional. Kudos to Sav'Star for providing such a fantastic product.
@@ -58,7 +58,7 @@ export const Testimonials = () => {
                   Anamika Garg
                 </a>
                 <p className="text-sm font-medium leading-4 text-gray-600">
-                  
+                 Customer
                 </p>
               </div>
             </div>
@@ -72,7 +72,7 @@ export const Testimonials = () => {
               >
                 
               </a>{' '}
-              <span className="text-gray-600">15 Nov</span>
+              <span className="text-gray-600">15 Nov, 2023</span>
             </p>
             <a
               href="/"
@@ -103,7 +103,7 @@ export const Testimonials = () => {
                   Ashutosh Sharma
                 </a>
                 <p className="text-sm font-medium leading-4 text-gray-600">
-                  
+                  Local Dealer
                 </p>
               </div>
             </div>
@@ -117,7 +117,7 @@ export const Testimonials = () => {
               >
                 
               </a>{' '}
-              <span className="text-gray-600">28 Dec</span>
+              <span className="text-gray-600">28 Dec, 2022</span>
             </p>
             <a
               href="/"
@@ -148,7 +148,7 @@ export const Testimonials = () => {
                   Divya Singh
                 </a>
                 <p className="text-sm font-medium leading-4 text-gray-600">
-                  
+                  Retailer
                 </p>
               </div>
             </div>

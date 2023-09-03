@@ -20,8 +20,8 @@ export const About = () => {
                   </span>
                 </span>
               </h2>
-              <p className="text-base text-center text-gray-700 md:text-xl ">
-              Sav'star is a wire manufacturing company which was established  in 2007 . Its manufacturing plants are located in Bawana industrial area , Delhi . The experience of more than 15+ years in this field helps us to give our customers the best quality wires and cables.Savstar Cables is a leading provider of high-quality electrical wires and cables for commercial and residential use. We offer a wide range of products all designed to meet the specific needs of our customers. With a focus on quality, safety, and reliability, our cables are built to withstand harsh environments and deliver consistent performance. Our experienced team of professionals is committed to providing exceptional customer service and technical support, ensuring that our customers have the products they need, when they need them. Whether you are looking to power up your home or your business, Savstar Cables has the solution for you.
+              <p className="text-base text-justify text-gray-700 md:text-xl ">
+              Sav'star is a <b>wire manufacturing company</b> which was established in <b>2007</b>. Its manufacturing plants are located in Bawana industrial area, Delhi. The <b>experience</b> of more than <b>15+</b> years in this field helps us to give our customers the <b>best quality wires</b> and cables. Savstar Cables is a <b>leading provider</b> of <b>high-quality</b> electrical wires and cables for commercial and residential use. We offer a wide range of products all designed to meet the specific needs of our customers. With a focus on <b>quality, safety, and reliability</b>, our cables are built to withstand harsh environments and <b>deliver consistent performance</b>. Our experienced team of professionals is committed to providing exceptional <b>customer service</b> and <b>technical support</b>, ensuring that our customers have the products they need, when they need them. Whether you are looking to power up your home or your business, Savstar Cables has the solution for you.
               </p>
             </div>
             {/* <div className="grid gap-5 row-gap-8 sm:grid-cols-2"> */}
@@ -51,7 +51,7 @@ export const About = () => {
           </div>
           <div>
             <img
-              className="object-cover w-full h-56 rounded shadow-lg sm:h-3/4 mt-24"
+              className="object-cover w-full h-56 rounded-2xl shadow-lg sm:h-3/4 mt-24"
               src="https://img.freepik.com/free-photo/colorful-plastic-polymer-granules-cable_93675-129273.jpg?size=626&ext=jpg&uid=R114765670&semt=ais"
               alt=""
             />

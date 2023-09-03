@@ -42,7 +42,7 @@ export const Footer = () => {
           <div className="flex">
             <p className="mr-1 text-orange-500">Email:</p>
             <a
-              href="mailto:info@lorem.mail"
+              href="mailto:savstar.help@gmail.com"
               aria-label="Our email"
               title="Our email"
               className="transition-colors duration-300 text-white hover:text-gray-500"

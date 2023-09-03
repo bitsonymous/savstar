@@ -22,7 +22,7 @@ const Features = () => {
             <p className="text-base text-gray-700 md:text-lg">
              Sav'Star has crafted top-tier products that cater to the ever-evolving needs of our esteemed clientele.Our
             cables are meticulously engineered using the highest quality components, ensuring steadfast durability an
-            uninterrupted functionality even in the most demanding scenarios.
+            uninterrupted functionality even in the most demanding scenarios.
 
             </p>
         </div>

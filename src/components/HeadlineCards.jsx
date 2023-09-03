@@ -13,7 +13,7 @@ const HeadlineCards = () => {
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-          src='https://lsvinacns.vn/Upload/product/Building/450-750-cl2-1.JPG'
+          src='https://github.com/AyushiSingh0502/savstar/blob/main/wepik-export-20230831090907plLB.jpeg?raw=true'
           alt='/'
         />
       </div>
@@ -27,7 +27,7 @@ const HeadlineCards = () => {
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-          src='https://github.com/AyushiSingh0502/savstar/blob/main/wepik-export-20230831090907plLB.jpeg?raw=true'
+          src='https://5.imimg.com/data5/JE/QJ/HZ/SELLER-3181704/armoured-cable-500x500.jpg'
           alt='/'
         />
       </div>
