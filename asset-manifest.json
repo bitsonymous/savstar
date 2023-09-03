@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/savstar/static/css/main.6d8cbb77.css",
+    "main.js": "/savstar/static/js/main.93924d43.js",
+    "index.html": "/savstar/index.html",
+    "main.6d8cbb77.css.map": "/savstar/static/css/main.6d8cbb77.css.map",
+    "main.93924d43.js.map": "/savstar/static/js/main.93924d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d8cbb77.css",
+    "static/js/main.93924d43.js"
+  ]
+}
