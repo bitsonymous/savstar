@@ -2,8 +2,7 @@
   "name": "Savstar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bitsonymous.github.io/savstar"
-  <Route path='/savstar' exact component={Home}/>
+  "homepage": "http://bitsonymous.github.io/savstar",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
