@@ -18,7 +18,7 @@ root.render(
     <HeadlineCards/>
     <Statistic/>
     <About/>
-    <App />
+    {/* <App /> */}
     <Footer/>
   </React.StrictMode>
 );
